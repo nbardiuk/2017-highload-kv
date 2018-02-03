@@ -1,0 +1,17 @@
+GET http://localhost:8080/v0/status
+
+###
+
+PUT http://localhost:8080/v0/entity?id=1
+
+test value
+
+###
+
+GET http://localhost:8080/v0/entity?id=1
+
+###
+
+DELETE http://localhost:8080/v0/entity?id=1
+
+###

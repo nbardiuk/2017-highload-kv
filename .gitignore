@@ -12,6 +12,7 @@
 !LICENSE
 !README.md
 !settings.gradle
+!*.http
 
 # ...even if they are in subdirectories
 !*/
